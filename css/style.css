@@ -1,0 +1,9 @@
+hr{
+    border-style:dashed;
+    width:10%;
+    border-width:3px;
+    border-color:grey;
+}
+ h1,h2{
+    color:rgb(6, 101, 101);
+}
